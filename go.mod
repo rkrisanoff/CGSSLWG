@@ -1,3 +1,3 @@
-module github.com/go-extras/tahwil
+module "github.com/rkrisanoff/CGSSLWG"
 
 go 1.19
